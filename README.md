@@ -1,3 +1,4 @@
 # Hydrate
 
-![Screenshot] (https://i.imgur.com/eHhkYCt.gif)
+![Screenshot](https://i.imgur.com/eHhkYCt.gif)   
+
